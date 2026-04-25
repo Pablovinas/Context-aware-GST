@@ -11,5 +11,6 @@ The implementation primarily utilizes the open-source Python library [pyGSTi](ht
 `main_functions.py`: Contains essential functions required to perform Gate Set Tomography (GST).
 `context_independent_LS_GST.ipynb`: A Jupyter notebook which serves as a tutorial to reproduce the findings in the context-independent section of our manuscript (Sec. II).
 `context_dependent_LS_GST.ipynb`: A Jupyter notebook which serves as a tutorial to reproduce the findings in the context-dependent section of our manuscript (Sec. III).
+The folder `manuscript_data` contains the generated datasets for the figures in our manuscript.
 
 For any questions or further information, please contact the authors at:  [pablo.vinnas@estudiante.uam.es](mailto:pablo.vinnas@estudiante.uam.es).
